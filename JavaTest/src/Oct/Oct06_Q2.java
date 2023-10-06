@@ -1,6 +1,9 @@
 package Oct;
 import java.util.*;
 import java.io.*;
+/* 백준 11659
+   누적 합
+*/
 public class Oct06_Q2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
